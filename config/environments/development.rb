@@ -34,4 +34,7 @@ PoopMyScoop::Application.configure do
 
   # Expands the lines which load the assets
   config.assets.debug = true
+
+  FlickRaw.api_key="fa375f204ca300fd95aed5e167deece2"
+  FlickRaw.shared_secret="ad6ba1b0dc636c5a"
 end

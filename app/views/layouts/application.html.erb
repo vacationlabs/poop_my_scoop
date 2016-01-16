@@ -7,8 +7,47 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
+<nav class="navbar-def custom_nav navbar-fixed-top">
+  <div class="container-fluid">
+   
+    <div class="navbar-header" align="center" >
+     <img class="icon" alt="Brand" src="/assets/logo.png">
+     <h4 class="heading" >POOP  MY  SCOOP</h4>
+      
 
-<%= yield %>
+    </div>
+    
+     
+    
+  </div>
+</nav>
+
+<!-- the main body -->
+<div id="height-min">
+  <%= yield %>
+</div>
+
+<!-- start of footer-->
+<footer class="footer-basic-centered">
+	<p class="footer-company-motto"></p>
+	<p class="footer-links">
+		<a href="#">Home</a>
+		·
+		<a href="#">Blog</a>
+		·
+		<a href="#">Pricing</a>
+		·
+		<a href="#">About</a>
+		·
+		<a href="#">Faq</a>
+		·
+		<a href="#">Contact</a>
+	</p>
+
+	<p class="footer-company-name">Hackathon &copy; 2016</p>
+
+</footer>
+
 
 </body>
 </html>

@@ -1,0 +1,27 @@
+.navbar-def {
+    background-color: #e7e7e7;
+    border-color: #e7e7e7;
+}
+
+.custom_nav {
+	position: relative;
+	min-height: 50px;
+	margin-bottom: 20px;
+	border: 1px solid transparent;
+	-webkit-box-shadow: 0 6px 4px -4px black;
+	-moz-box-shadow: 0 6px 4px -4px black;
+	box-shadow: 0 3px 7px -3px black;
+}
+
+.heading{
+	font-family:Montez; 
+	font-size: 25px;
+	color:blue;
+	float:left
+}
+
+.icon {
+	height:40px;
+	width:40px; 
+	float:left
+}

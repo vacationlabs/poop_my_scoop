@@ -10,4 +10,21 @@
  *
  *= require_self
  *= require_tree .
+ *= require twitter/bootstrap
+ *= require custom_bootstrap/custom_bootstrap
  */
+
+
+@import 'heading';
+@import 'body';
+@import 'footer';
+
+
+
+#height-min{
+  min-height: 230px;
+}
+
+
+
+
