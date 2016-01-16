@@ -20,8 +20,16 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
+gem 'flickraw'
 gem 'jquery-rails'
+gem 'ckeditor' 
 
+# gem "therubyracer"
+# gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
+# gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6' 
+gem 'therubyracer'  # If using Ruby
+gem 'therubyrhino'
+gem 'less-rails-bootstrap', '~> 3'
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
