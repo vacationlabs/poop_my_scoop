@@ -28,17 +28,39 @@ editorControllers.controller('editorMarkdownController', ['$scope', 'PoopMyScoop
       });
 
     }
-
+ 
     $scope.save_images = function(){
       $scope.save_image = true
       $scope.edit_content = $scope.edit_content + $scope.image_to_be_added
       $('#myModal').modal('hide')
     }
 
+    var i;
+    var id_arr = []
+
+    $scope.change_colour = function(img_id){
+    i=$scope.images_ranged_data;
+    flaten=_.flatten($scope.images_ranged_data, true)
+    _.each(flaten,function(o){
+      id_arr.push(o.id);
+      //console.log(id_arr);
+    })
+
+    _.each(id_arr, function(num){ 
+      if($("#"+num).hasClass( "selected-image" ) && img_id!=num ) 
+        console.log(num);
+        $("#"+num).removeClass("selected-image");
+    });
+    
+    element = $('#'+img_id)
+    element.addClass("selected-image")
+    }
+
+
     $scope.add_image = function(img){
        
-      markdown_text = '\n\n'+'![alt text][logo]'+'\n\n' +
-                      '[logo]: '+ 
+      markdown_text = '\n\n'+'![alt text]['+img.id+']'+'\n\n' +
+                      '['+img.id+']: '+ 
                       img.image_m_link+
                       ' "'+img.title+'"'
 

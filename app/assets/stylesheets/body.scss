@@ -72,8 +72,8 @@
 
  
 .selected-image{
-  border-color: #3D9827;
-  box-shadow: 4px 4px 4px 0px #3C906D;
+  
+  box-shadow: 5px 5px 5px 3px #3C906D
 }
  
 .modal_body_style{
@@ -81,3 +81,8 @@
   overflow: auto;
 }
  
+.spacing-bottom {
+    margin-left: auto;
+    margin-right: auto;
+        padding-bottom: 20px;
+}
