@@ -18,9 +18,7 @@
           <button type="button"  class="btn btn-primary btn-xs" data-toggle="modal" data-target="#myModal" ng-click="fetch_images_data(4)">
             Add Image
           </button>
-          <button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#myModal">
-          Show preview
-          </button>
+         
           <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
             <div class="modal-dialog" role="document">
               <div class="modal-content">
@@ -33,11 +31,12 @@
                       <!-- Projects Row -->
                  
                   <div class="item-container" ng-repeat="image_range in images_ranged_data">
-                    <div class="row spacing-bottom">
-                      <div class="grouped-container" ng-repeat="img in image_range">
+                    <div style="margin-left: 5px;" class="row spacing-bottom">
+
+                      <div class="grouped-container " ng-repeat="img in image_range">
                         <div class="col-xs-3 portfolio-item">
                           <a href="#" ng-click="add_image(img)" data-img-id="{{img.id}}" data-img-ref="{{img.get_m_640_link}}">
-                            <img class="img-responsive img-thumbnail" onclick="change_color()"  src="{{img.image_s_link}}" alt="{{img.title}}"> 
+                            <img id="{{img.id}}" class="img-responsive img-thumbnail" src="{{img.image_s_link}}" alt="{{img.title}}" ng-click="change_colour(img.id)"> 
                           </a>
                         </div>
                       </div>
