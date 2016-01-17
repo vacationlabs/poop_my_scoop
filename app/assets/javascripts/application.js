@@ -23,6 +23,7 @@
 //= require twitter/bootstrap
 //= require bootstrap_changes.js
 //= require markdown/lib/markdown.js
+//= require underscore.min.js
 //= require angular/angular.js
 //= require angular/angular-route.min
 //= require angular/angular-sanitize.min
