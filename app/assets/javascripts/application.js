@@ -11,13 +11,26 @@
 // GO AFTER THE REQUIRES BELOW.
 //
 
-//= require_tree .
+//require_tree .
 
 //= require jquery
 //= require jquery_ujs
+
+/*
+
 //= require twitter/bootstrap/modal
 //= require twitter/bootstrap/alert
+//= require twitter/bootstrap
+//= require bootstrap_changes.js
+//= require markdown/lib/markdown.js
+//= require angular/angular.js
+//= require angular/angular-route.min
+//= require angular/angular-sanitize.min
+//= require angular/angular-loader.min
+//= require angular/angular-ui-router
+//= require app.js
+//= require editorControllers.js
+//= require services/image_factory.js
+//= require directives/poop-editor.js
+*/
 
-$('#myModal').on('shown.bs.modal', function () {
-  $('#myInput').focus()
-})

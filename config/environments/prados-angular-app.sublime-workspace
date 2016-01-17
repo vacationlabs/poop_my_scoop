@@ -1,0 +1,3062 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inclue",
+				"include_availability_between_start"
+			],
+			[
+				"new",
+				"new_od"
+			],
+			[
+				"skip",
+				"skip_mutex_dow_check"
+			],
+			[
+				"days",
+				"days_of_week"
+			],
+			[
+				"day",
+				"day"
+			],
+			[
+				"ed",
+				"ends_at"
+			],
+			[
+				"nex",
+				"next_month_date"
+			],
+			[
+				"trip_opti",
+				"trip_options"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"edito",
+				"editor_data"
+			],
+			[
+				"text",
+				"text_data"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"excldue",
+				"excluded_times"
+			],
+			[
+				"ecluse",
+				"excluded_times"
+			],
+			[
+				"eclude",
+				"excluded_times"
+			],
+			[
+				"open",
+				"open_slots"
+			],
+			[
+				"opens",
+				"open_slot"
+			],
+			[
+				"open_s",
+				"open_slot"
+			],
+			[
+				"cha",
+				"chat"
+			],
+			[
+				"list",
+				"list_of_tasks"
+			],
+			[
+				"chat",
+				"chat_id"
+			],
+			[
+				"starts",
+				"starts_at"
+			],
+			[
+				"assert",
+				"assert"
+			],
+			[
+				"start",
+				"starts_at"
+			],
+			[
+				"exclus",
+				"excluded_times"
+			],
+			[
+				"excluded",
+				"excluded_times"
+			],
+			[
+				"opne",
+				"open_slots2"
+			],
+			[
+				"open_S",
+				"open_slots2"
+			],
+			[
+				"trip_optio",
+				"trip_option"
+			],
+			[
+				"opensl",
+				"open_slots"
+			],
+			[
+				"openS",
+				"open_slots"
+			],
+			[
+				"trip_option",
+				"trip_option_json"
+			],
+			[
+				"overlapp",
+				"overlapping_ranges"
+			],
+			[
+				"ends",
+				"ends_at"
+			],
+			[
+				"trip_",
+				"trip_option"
+			],
+			[
+				"exclde",
+				"excluded_times"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"err",
+				"_errs"
+			],
+			[
+				"form",
+				"form_dirty"
+			],
+			[
+				"prim",
+				"promise"
+			],
+			[
+				"json",
+				"json_patch"
+			],
+			[
+				"jsn",
+				"json_patch"
+			],
+			[
+				"cach",
+				"cache_key"
+			],
+			[
+				"inclde",
+				"include"
+			],
+			[
+				"cache",
+				"cache"
+			],
+			[
+				"boking_dis",
+				"booking_ids_with_addon_comment"
+			],
+			[
+				"departure",
+				"departure_hash"
+			],
+			[
+				"is",
+				"inspect"
+			],
+			[
+				"include",
+				"include_additional_values"
+			],
+			[
+				"passenegr",
+				"passengers"
+			],
+			[
+				"para",
+				"paramType"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"exclude",
+				"excluded_times"
+			],
+			[
+				"trip_op",
+				"trip_options"
+			],
+			[
+				"booking",
+				"bookings"
+			],
+			[
+				"booing_id",
+				"booking_ids_with_addon_comment"
+			],
+			[
+				"book",
+				"booking_ids_with_addon_comment"
+			],
+			[
+				"booking_ds",
+				"booking_ids_with_addon_comment"
+			],
+			[
+				"permission",
+				"permissions"
+			],
+			[
+				"opts",
+				"opts"
+			],
+			[
+				"rejection_email",
+				"rejection_email_content"
+			],
+			[
+				"post",
+				"position"
+			],
+			[
+				"pax_coun",
+				"pax_counter"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"bs",
+				"b_json"
+			],
+			[
+				"b_id",
+				"b_ids"
+			],
+			[
+				"bookings_i",
+				"booking_ids_with_addon_comments"
+			],
+			[
+				"has",
+				"has_addon_or_comments"
+			],
+			[
+				"pricing",
+				"pricing_items"
+			],
+			[
+				"select",
+				"selected_av"
+			],
+			[
+				"uni",
+				"uniq"
+			],
+			[
+				"booking_custom",
+				"booking_custom_form_keys"
+			],
+			[
+				"group_by",
+				"_group_by_custom_field_name"
+			],
+			[
+				"field_va",
+				"field_value"
+			],
+			[
+				"field_val",
+				"field_val_hash"
+			],
+			[
+				"_get_F",
+				"_get_full_name"
+			],
+			[
+				"custom_fie",
+				"CUSTOM_FIELD_TYPE_PAX"
+			],
+			[
+				"field",
+				"field_title"
+			],
+			[
+				"pricing_ite",
+				"pricing_items_json"
+			],
+			[
+				"CUSTOM",
+				"CUSTOM_FIELD_TYPE_BKNG"
+			],
+			[
+				"pax_custom_wi",
+				"pax_custom_with_name_keys"
+			],
+			[
+				"cusom_fi",
+				"CUSTOM_FIELD_TYPE_PAX"
+			],
+			[
+				"pax_custom_wit",
+				"pax_custom_with_name_fields"
+			],
+			[
+				"pax_custom_form",
+				"pax_custom_form_keys"
+			],
+			[
+				"fiel",
+				"field_name"
+			],
+			[
+				"selec",
+				"select"
+			],
+			[
+				"custom_name",
+				"custom_name_fields"
+			],
+			[
+				"custom_nam",
+				"custom_name_fields"
+			],
+			[
+				"custom",
+				"custom_form_key"
+			],
+			[
+				"custom_form",
+				"custom_form_key"
+			],
+			[
+				"custom_fr",
+				"custom_form_key"
+			],
+			[
+				"grp",
+				"grpd_av"
+			],
+			[
+				"process",
+				"processed_ranges"
+			],
+			[
+				"prcess",
+				"processed_ranges"
+			],
+			[
+				"comment",
+				"comment_bkng_ids"
+			],
+			[
+				"addon",
+				"addon_bkng_ids"
+			],
+			[
+				"bookigid",
+				"booking_ids_with_addon_comment"
+			],
+			[
+				"booking_ids",
+				"booking_ids_with_addon_comment"
+			],
+			[
+				"addition",
+				"additional_value"
+			],
+			[
+				"inc",
+				"include_grouped_pax_manifest"
+			],
+			[
+				"icl",
+				"include_grouped_pax_manifest"
+			],
+			[
+				"incldue",
+				"include_additional_values"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"con_cus",
+				"contact_cust_form_keys"
+			],
+			[
+				"pax_cust",
+				"pax_custom_form_keys"
+			],
+			[
+				"detect",
+				"detect_hash"
+			],
+			[
+				"conta",
+				"contacts"
+			],
+			[
+				"obj_arr",
+				"obj_arr_hash"
+			],
+			[
+				"hash",
+				"hash_key"
+			],
+			[
+				"pax_custom",
+				"pax_custom_form"
+			],
+			[
+				"pax_cust_form",
+				"pax_custom_form_keys"
+			],
+			[
+				"conta_cust",
+				"contact_cust_form_keys"
+			],
+			[
+				"special",
+				"special_booking_ids"
+			],
+			[
+				"refn",
+				"refund_attributes"
+			],
+			[
+				"ref",
+				"ref_payment"
+			],
+			[
+				"audit",
+				"audit_associations"
+			],
+			[
+				"aud",
+				"audit_associations"
+			],
+			[
+				"raise",
+				"raise_errors"
+			],
+			[
+				"opt",
+				"opts"
+			],
+			[
+				"rai",
+				"raise_errors"
+			],
+			[
+				"passenger",
+				"passengers"
+			],
+			[
+				"Ar",
+				"Archiology"
+			],
+			[
+				"last",
+				"last_grp"
+			],
+			[
+				"asert",
+				"assert"
+			],
+			[
+				"grouped",
+				"grouped_pax_manifest"
+			],
+			[
+				"respon",
+				"response_json"
+			],
+			[
+				"grou",
+				"grouped_pax_manifest"
+			],
+			[
+				"response",
+				"response_json"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/app.js",
+			"settings":
+			{
+				"buffer_size": 2119,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n\nSearching 113 files for \"ng-controller\"\n\n/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/angular/angular-route.js:\n  278:          <div ng-controller=\"MainCntl\">\n  678:         <div ng-controller=\"MainCntl as main\">\n\n/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/angular/angular-sanitize.js:\n   73:      <div ng-controller=\"Ctrl\">\n  508:        <div ng-controller=\"Ctrl\">\n\n/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/angular/angular-scenario.js:\n 10595:  <div ng-controller=\"Controller\">\n 11040:    <div ng-controller=\"ngAppDemoController\">\n 12823:  * In the following example a new block of HTML containing a `ng-controller`\n 12828:  * var $div = $('<div ng-controller=\"MyCtrl\">{{content.label}}</div>');\n 13601:        <div id=\"scrollArea\" ng-controller=\"ScrollCtrl\">\n 14990:     <div ng-controller=\"Ctrl\">\n 17327:   <div ng-controller=\"FetchCtrl\">\n 17997: <div ng-app=\"App\" ng-controller=\"DemoController as demo\">\n 18320:       *       <div ng-controller=\"Ctrl2\">\n 19176:        <div ng-controller=\"LogCtrl\">\n 22859:   <div ng-controller=\"myAppController as myCtrl\">\n 23642:        <div ng-controller=\"Ctrl\">\n 24031:        <div ng-controller=\"Ctrl\">\n 24090:        <div ng-controller=\"Ctrl\">\n 24520:        <div ng-controller=\"Ctrl\">\n 24639:        <div ng-controller=\"Ctrl\">\n 25493:        <form name=\"myForm\" ng-controller=\"Ctrl\" class=\"my-form\">\n 25636:          <form name=\"myForm\" ng-controller=\"Ctrl\">\n 25715:          <form name=\"myForm\" ng-controller=\"Ctrl\">\n 25790:          <form name=\"myForm\" ng-controller=\"Ctrl\">\n 25866:            <form name=\"myForm\" ng-controller=\"Ctrl\">\n 25936:          <form name=\"myForm\" ng-controller=\"Ctrl\">\n 25983:          <form name=\"myForm\" ng-controller=\"Ctrl\">\n 26362:        <div ng-controller=\"Ctrl\">\n 26895:        <form name=\"testForm\" ng-controller=\"Ctrl\">\n 26949:  *     <div ng-controller=\"Controller\">\n 27037:        <form name=\"myForm\" ng-controller=\"Ctrl\">\n 27137:         <form ng-controller=\"Ctrl\">\n 27215:        <div ng-controller=\"Ctrl\">\n 27269:        <div ng-controller=\"Ctrl\">\n 27329:        <div ng-controller=\"ngBindHtmlCtrl\">\n 27749:  * again using `ng-controller` in the template itself.  This will cause the controller to be attached\n 27795:       <div id=\"ctrl-as-exmpl\" ng-controller=\"SettingsController1 as settings\">\n 27872:       <div id=\"ctrl-exmpl\" ng-controller=\"SettingsController2\">\n 28293:       <form ng-submit=\"submit()\" ng-controller=\"Ctrl\">\n 28580:      <div ng-controller=\"Ctrl\">\n 28831:    <div ng-controller=\"Ctrl\">\n 28993:         <div ng-controller=\"Ctrl\">\n 29926:       <div ng-controller=\"Ctrl\">\n 30111:        <div ng-controller=\"Ctrl\">\n 30284:         <div ng-controller=\"MyCntrl\">\n\n/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/angular/angular.js:\n  803:  <div ng-controller=\"Controller\">\n 1248:    <div ng-controller=\"ngAppDemoController\">\n 3031:  * In the following example a new block of HTML containing a `ng-controller`\n 3036:  * var $div = $('<div ng-controller=\"MyCtrl\">{{content.label}}</div>');\n 3809:        <div id=\"scrollArea\" ng-controller=\"ScrollCtrl\">\n 5198:     <div ng-controller=\"Ctrl\">\n 7535:   <div ng-controller=\"FetchCtrl\">\n 8205: <div ng-app=\"App\" ng-controller=\"DemoController as demo\">\n 8528:       *       <div ng-controller=\"Ctrl2\">\n 9384:        <div ng-controller=\"LogCtrl\">\n 13067:   <div ng-controller=\"myAppController as myCtrl\">\n 13850:        <div ng-controller=\"Ctrl\">\n 14239:        <div ng-controller=\"Ctrl\">\n 14298:        <div ng-controller=\"Ctrl\">\n 14728:        <div ng-controller=\"Ctrl\">\n 14847:        <div ng-controller=\"Ctrl\">\n 15701:        <form name=\"myForm\" ng-controller=\"Ctrl\" class=\"my-form\">\n 15844:          <form name=\"myForm\" ng-controller=\"Ctrl\">\n 15923:          <form name=\"myForm\" ng-controller=\"Ctrl\">\n 15998:          <form name=\"myForm\" ng-controller=\"Ctrl\">\n 16074:            <form name=\"myForm\" ng-controller=\"Ctrl\">\n 16144:          <form name=\"myForm\" ng-controller=\"Ctrl\">\n 16191:          <form name=\"myForm\" ng-controller=\"Ctrl\">\n 16570:        <div ng-controller=\"Ctrl\">\n 17103:        <form name=\"testForm\" ng-controller=\"Ctrl\">\n 17157:  *     <div ng-controller=\"Controller\">\n 17245:        <form name=\"myForm\" ng-controller=\"Ctrl\">\n 17345:         <form ng-controller=\"Ctrl\">\n 17423:        <div ng-controller=\"Ctrl\">\n 17477:        <div ng-controller=\"Ctrl\">\n 17537:        <div ng-controller=\"ngBindHtmlCtrl\">\n 17957:  * again using `ng-controller` in the template itself.  This will cause the controller to be attached\n 18003:       <div id=\"ctrl-as-exmpl\" ng-controller=\"SettingsController1 as settings\">\n 18080:       <div id=\"ctrl-exmpl\" ng-controller=\"SettingsController2\">\n 18501:       <form ng-submit=\"submit()\" ng-controller=\"Ctrl\">\n 18788:      <div ng-controller=\"Ctrl\">\n 19039:    <div ng-controller=\"Ctrl\">\n 19201:         <div ng-controller=\"Ctrl\">\n 20134:       <div ng-controller=\"Ctrl\">\n 20319:        <div ng-controller=\"Ctrl\">\n 20492:         <div ng-controller=\"MyCntrl\">\n\n86 matches across 4 files\n\n\nSearching 113 files for \"productController\"\n\n/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/angular-data/main.js:\n    3: // invoiceApp.controller('ProductController', function ($scope) {\n\n/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/angular-data/product.js:\n    3: // // app.controller(\"ProductController\", ['$scope', '$resource', function($scope, $resource) {\n   20: // var productControllers = angular.module(\"InvoiceApp\", []);\n   27: // // 		controller: 'ProductController'\n   31: // // var productControllers = angular.module('productControllers', []);\n   42: // app.controller('ProductController',['$scope', '$http', function($scope, $http){\n\n/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/invoice_controllers.js:\n   66: productControllers.controller('InvoiceSearchController',['$scope', 'Invoice', 'FlashMessagesService', function($scope, Invoice, flash_messages) {\n\n/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/product_controllers.js:\n    1: var productControllers = angular.module('productControllers', []);\n    3: productControllers.controller(\"ProductListController\", ['$scope', 'Product',  function($scope, Product) {\n   40: productControllers.controller(\"ProductCreateController\", ['$scope', '$state', 'Product', 'FlashMessagesService', function($scope, $state, Product, flash_messages) {\n   57: productControllers.controller('ProductDetailController', ['$scope', '$routeParams', 'Product',\n   62: productControllers.controller('ProductSearchController',['$scope', 'Product', function($scope, Product) {\n\n14 matches across 4 files\n\n\nSearching 113 files for \"ProductListController\"\n\n/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/product_controllers.js:\n    3: productControllers.controller(\"ProductListController\", ['$scope', 'Product',  function($scope, Product) {\n\n1 match in 1 file\n\n\nSearching 113 files for \"invoices\"\n\n/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/app.js:\n   22:     .state('invoices', {\n   23:       url: '/invoices/index',\n   27:     .state('invoices-create', {\n   28:       url: '/invoices/create',\n   32:     .state('invoices-search', {\n   33:       url: '/invoices/search',\n   35:       controller: 'InvoiceSearchController'\n\n/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/invoice_controllers.js:\n   15:           $state.go('invoices');\n   30:     $scope.invoices = data;\n   39:         	$scope.invoices = data;\n   54:       $scope.invoices = data;\n   61:       $scope.invoices = data;\n   66: productControllers.controller('InvoiceSearchController',['$scope', 'Invoice', 'FlashMessagesService', function($scope, Invoice, flash_messages) {\n   78:         $scope.invoices = data;\n   88:       data.length > 0 ? ($scope.invoices = data) : ($scope.pagination.currentPage -= 1);\n  100:         $scope.invoices = data;\n  108:       $scope.invoices = data;\n\n/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/partials/invoice/_create.html:\n    2: 	<span>Invoices / Create invoice</span>\n\n/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/partials/invoice/_index.html:\n    3: 		<span>Invoices / Invoices List</span>\n    4: 		<a ui-sref=\"invoices-create\" class=\"btn btn-success pull-right\">+ New Invoice</a>\n   14: 		<tr ng-repeat=\"invoice in invoices\">\n\n/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/partials/invoice/_search.html:\n    2: 	<span>Search invoices</span>\n   19: 		<tr ng-repeat=\"invoice in invoices\">\n\n/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/services/invoice_factory.js:\n    2: 	var invoice_api = 'invoices/';\n\n/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/services/invoice_service.js:\n    1: angular.module('invoiceApp').service('InvoiceService', ['$http', function($http) {\n    2: 	var invoice_api = 'invoices/';\n\n/home/ankita/rails-apps/invoice-pradosh/app/controllers/invoices_controller.rb:\n    1: class InvoicesController < ApplicationController\n   19: 		# @invoices = []\n   33:   #     @invoices.push(invoice)\n   37:   #     format.json { render json: @invoices }\n   39:   	@invoices = get_full_invoice_details(data)\n   40:   	render json: @invoices\n   60: 		@invoices = InvoiceRecord.search_for_invoices(params[:text], @page)\n   61: 		# @invoices = InvoiceRecord.find_by_ids(ids)#.page(@page).per(10)\n   62: 		# raise GlobalError.new(\"No search result for #{params[:text]}\") if @invoices.length <1\n   63: 		render json: get_full_invoice_details(@invoices)\n   68: 		@invoices = []\n\n/home/ankita/rails-apps/invoice-pradosh/app/models/invoice_record.rb:\n   34:   def self.get_invoices\n   36:     invoices = []\n   40:       invoices.push(invoice)\n   43:    invoices\n   53:   def self.search_for_invoices(text, page=1)\n   62:     # invoices = InvoiceRecord.find((items.collect{|i| i.invoice_record_id}).uniq)\n\n/home/ankita/rails-apps/invoice-pradosh/app/views/layouts/application.html.erb:\n   22: 								<li><a ui-sref=\"invoices\">Invoices</a></li>\n   24: 								<li><a ui-sref=\"invoices-search\">Search Invoices</a></li>\n\n49 matches across 10 files\n",
+			"settings":
+			{
+				"buffer_size": 10159,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/directives/flash-message.js",
+			"settings":
+			{
+				"buffer_size": 1136,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/directives/line-item.js",
+			"settings":
+			{
+				"buffer_size": 1544,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/directives/vl-appear.js",
+			"settings":
+			{
+				"buffer_size": 1669,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/directives/vl-click.js",
+			"settings":
+			{
+				"buffer_size": 1670,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/directives/vl-date-picker.js",
+			"settings":
+			{
+				"buffer_size": 2487,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/directives/vl-field-errors.js",
+			"settings":
+			{
+				"buffer_size": 1374,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/directives/vl-paginate.js",
+			"settings":
+			{
+				"buffer_size": 1787,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/app.js",
+			"settings":
+			{
+				"buffer_size": 2119,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ankita/rails-apps/invoice-pradosh/app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 947,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/product_controllers.js",
+			"settings":
+			{
+				"buffer_size": 3738,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/services/invoice_factory.js",
+			"settings":
+			{
+				"buffer_size": 1129,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ankita/rails-apps/poop-my-scoop/poop_my_scoop/app/assets/javascripts/services/image_factory.js",
+			"settings":
+			{
+				"buffer_size": 422,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ankita/rails-apps/invoice-pradosh/Gemfile",
+			"settings":
+			{
+				"buffer_size": 896,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ankita/rails-apps/invoice-pradosh/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 2394,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/application.js",
+			"settings":
+			{
+				"buffer_size": 1500,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git: bla",
+				"Git: Blame"
+			],
+			[
+				"migration",
+				"Migrations list"
+			],
+			[
+				"migrat",
+				"Migrations list"
+			],
+			[
+				"migrati",
+				"Migrations list"
+			],
+			[
+				"migration ",
+				"Migrations list"
+			],
+			[
+				"git",
+				"Git: Amend Commit"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"migra",
+				"Migrations list"
+			],
+			[
+				"migrtion",
+				"Migrations list"
+			],
+			[
+				"migratio",
+				"Migrations list"
+			],
+			[
+				"migart",
+				"Migrations list"
+			],
+			[
+				"miratio",
+				"Migrations list"
+			],
+			[
+				"repl irb",
+				"SublimeREPL: Ruby IRB (deprecated)"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"migration list",
+				"Migrations list"
+			],
+			[
+				"migrato",
+				"Migrations list"
+			],
+			[
+				"istall",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"miration",
+				"Migrations list"
+			],
+			[
+				"migraitn",
+				"Migrations list"
+			],
+			[
+				"mirg",
+				"Migrations list"
+			],
+			[
+				"migraiton",
+				"Migrations list"
+			],
+			[
+				"migraton",
+				"Migrations list"
+			],
+			[
+				"migration list ",
+				"Migrations list"
+			],
+			[
+				"igration",
+				"Migrations list"
+			],
+			[
+				"mig",
+				"Migrations list"
+			],
+			[
+				"migration lis",
+				"Migrations list"
+			],
+			[
+				"migratin",
+				"Migrations list"
+			],
+			[
+				"miga",
+				"Migrations list"
+			],
+			[
+				"mirati",
+				"Migrations list"
+			],
+			[
+				"migration lsi",
+				"Migrations list"
+			],
+			[
+				"mi",
+				"Migrations list"
+			],
+			[
+				"migraio",
+				"Migrations list"
+			],
+			[
+				"migratio li",
+				"Migrations list"
+			],
+			[
+				" igratin list",
+				"Migrations list"
+			],
+			[
+				"migration lis t",
+				"Migrations list"
+			],
+			[
+				"migraiton ",
+				"Migrations list"
+			],
+			[
+				"migartio",
+				"Migrations list"
+			],
+			[
+				"mia",
+				"Migrations list"
+			],
+			[
+				"migta",
+				"Migrations list"
+			],
+			[
+				"migaton",
+				"Migrations list"
+			],
+			[
+				"mir",
+				"Migrations list"
+			],
+			[
+				"m",
+				"Migrations list"
+			],
+			[
+				"igrat",
+				"Migrations list"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"migratoin",
+				"Migrations list"
+			],
+			[
+				"migtaio",
+				"Migrations list"
+			],
+			[
+				"migar",
+				"Migrations list"
+			],
+			[
+				"migration li",
+				"Migrations list"
+			],
+			[
+				"migration s",
+				"Migrations list"
+			],
+			[
+				"migtaions",
+				"Migrations list"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"repl she",
+				"SublimeREPL: Shell"
+			],
+			[
+				"irb ",
+				"SublimeREPL: Ruby IRB (deprecated)"
+			],
+			[
+				"remoce",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"Migratio",
+				"Migrations list"
+			],
+			[
+				"migrations",
+				"Migrations list"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ankita/rails-apps/invoice-pradosh",
+		"/home/ankita/rails-apps/invoice-pradosh/app",
+		"/home/ankita/rails-apps/invoice-pradosh/app/assets",
+		"/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts",
+		"/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/angular-data",
+		"/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/directives",
+		"/home/ankita/rails-apps/invoice-pradosh/app/controllers",
+		"/home/ankita/rails-apps/invoice-pradosh/app/views",
+		"/home/ankita/rails-apps/invoice-pradosh/app/views/invoices",
+		"/home/ankita/rails-apps/invoice-pradosh/app/views/layouts",
+		"/home/ankita/rails-apps/invoice-pradosh/app/views/products",
+		"/home/ankita/rails-apps/invoice-pradosh/config"
+	],
+	"file_history":
+	[
+		"/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/directives/tracked-form.js",
+		"/home/ankita/rails-apps/invoice-pradosh/app/controllers/products_controller.rb",
+		"/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/application.js",
+		"/home/ankita/rails-apps/invoice-pradosh/app/views/layouts/application.html.erb",
+		"/home/ankita/rails-apps/vacationlabs/common/app/assets/javascripts/common/admin/profile.js",
+		"/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/directives/flash-message.js",
+		"/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/app.js",
+		"/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/invoice_controllers.js",
+		"/home/ankita/rails-apps/invoice-pradosh/app/views/products/index.html.erb",
+		"/home/ankita/rails-apps/invoice-pradosh/app/views/products/create.html.erb",
+		"/home/ankita/rails-apps/invoice-pradosh/app/views/invoices/create.html.erb",
+		"/home/ankita/rails-apps/invoice-pradosh/app/views/invoices/index.html.erb",
+		"/home/ankita/rails-apps/invoice-pradosh/app/views/invoices/show.html.erb",
+		"/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/directives/line-item.js",
+		"/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/angular-data/product.js",
+		"/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/angular-data/main.js",
+		"/home/ankita/rails-apps/vacationlabs/common/lib/common/local_time.rb",
+		"/home/ankita/rails-apps/vacationlabs/itinerary/lib/itinerary/departure_date_calendar_mixin.rb",
+		"/home/ankita/rails-apps/vacationlabs/db/schema.rb",
+		"/home/ankita/rails-apps/vacationlabs/itinerary/config/routes.rb",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/models/trips/trip.rb",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/models/trips/availability.rb",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/models/trips/open_slot.rb",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/helpers/trips/store_front/single_calendar_widget_helper.rb",
+		"/home/ankita/rails-apps/vacationlabs/common/lib/common/times_from_ranges_mixin.rb",
+		"/home/ankita/rails-apps/vacationlabs/trips/lib/trips/trip_option_date_range_operations.rb",
+		"/home/ankita/rails-apps/vacationlabs/Gemfile",
+		"/home/ankita/rails-apps/poop-my-scoop/Gemfile",
+		"/home/ankita/rails-apps/poop-my-scoop/poop_my_scoop/Gemfile",
+		"/home/ankita/rails-apps/poop-my-scoop/poop_my_scoop/.ruby-gemset",
+		"/home/ankita/rails-apps/poop-my-scoop/poop_my_scoop/.ruby-version",
+		"/home/ankita/rails-apps/vacationlabs/.ruby-version",
+		"/home/ankita/rails-apps/vacationlabs/.ruby-gemset",
+		"/home/ankita/rails-apps/poop-my-scoop/config/application.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/unit/trips/open_slots_test.rb",
+		"/home/ankita/rails-apps/vacationlabs/itinerary/app/controllers/itinerary/store_front/bookings_controller.rb",
+		"/home/ankita/rails-apps/vacationlabs/ckeditor/app/assets/ckeditor/ckeditor/config.js",
+		"/home/ankita/rails-apps/vacationlabs/lib/backup/config.rb",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/views/trips/store_front/trips/trip_details.html.erb",
+		"/home/ankita/rails-apps/vacationlabs/app/views/widgets/single_calendar.html.erb",
+		"/home/ankita/rails-apps/vacationlabs/itinerary/app/assets/javascripts/itinerary/common/directives/departure_date_picker.js",
+		"/home/ankita/rails-apps/vacationlabs/common/app/assets/javascripts/common/admin/vl/common/directives/large_text_editor.js",
+		"/home/ankita/rails-apps/vacationlabs/common/app/assets/javascripts/common/admin/vl/common/directives/vl_rich_text_editor.js",
+		"/home/ankita/rails-apps/vacationlabs/test/unit/itinerary/departure_calendar_mixin_test.rb",
+		"/home/ankita/rails-apps/vacationlabs/itinerary/app/views/itinerary/store_front/bookings/_departure_date_step.html.erb",
+		"/home/ankita/rails-apps/vacationlabs/itinerary/app/views/itinerary/store_front/bookings/multi_step_booking_form.html.erb",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/assets/javascripts/trips/store_front/_intelligent_calendar_jquery_widget.js",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/views/trips/store_front/trips/_trip_details_content.html.erb",
+		"/home/ankita/Downloads/Telegram Desktop/vacationlabs-js-guide.TODO",
+		"/home/ankita/rails-apps/vacationlabs/vendor/gems/twitter_bootstrap_form_for/.git",
+		"/home/ankita/rails-apps/vacationlabs/hotels/app/views/hotels/hotel_booking_mailer/confirmation_email.html.liquid",
+		"/home/ankita/.ssh/config",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/controllers/trips/store_front/trips_controller.rb",
+		"/home/ankita/rails-apps/vacationlabs/Gemfile.lock",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/assets/javascripts/trips/admin/vl-trips/vl-custom-trips/directives/custom_trip_basic_details_tab.js",
+		"/home/ankita/rails-apps/vacationlabs/db/migrate/20160112095321_manual_service_tax_entries_for_28_dec_2015_week.rb",
+		"/home/ankita/rails-apps/vacationlabs/app/admin/itinerary_bookings.rb",
+		"/home/ankita/rails-apps/vacationlabs/itinerary/app/models/itinerary/booking.rb",
+		"/home/ankita/rails-apps/vacationlabs/itinerary/app/models/itinerary/departure.rb",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/assets/javascripts/trips/admin/vl-trips/directives/detailed_itinerary_editor.js",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/views/trips/admin/trips/_detailed_itinerary_editor.html.erb",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/views/trips/admin/trips/_short_tours_detailed_itinerary_editor.html.erb",
+		"/home/ankita/rails-apps/vacationlabs/app/helpers/application_helper.rb",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/views/trips/store_front/trips/_trips_additional_values.html.erb",
+		"/home/ankita/rails-apps/vacationlabs/test/unit/trips/trip_widget_test.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/unit/trips/trip_option_test.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/unit/trips/trip_mailer_test.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/unit/trips/trip_filter_test.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/unit/trips/trip_test.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/functional/trips/store_front/trips_controller_test.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/functional/trips/admin/trips_controller_test.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/integration/trips/admin/trip_dashboard_test.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/functional/trips/admin/trip_options_test.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/functional/itinerary/store_front/trip_labels_test.rb",
+		"/home/ankita/rails-apps/vacationlabs/config/deploy/theory.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/functional/trips_storefront_api/trips_controller_test.rb",
+		"/home/ankita/ruby-apps/tele/bot.rb",
+		"/home/ankita/rails-apps/vacationlabs/common/app/assets/javascripts/common/admin/vl/common.js",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/views/trips/admin/trips/_edit_trip_location.html.erb",
+		"/home/ankita/rails-apps/vacationlabs/common/app/views/common/admin/templates/_address_picker.html.erb",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/assets/javascripts/trips/admin/vl-trips/models/trip.js",
+		"/home/ankita/rails-apps/vacationlabs/common/app/assets/javascripts/common/vl.common/directives/vl_address_picker.js",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/assets/javascripts/trips/admin/vl-trips/models/trip_save_service.js",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/assets/javascripts/trips/admin/vl-trips/vl-short-tours/controllers/edit_short_tour_controller.js",
+		"/home/ankita/rails-apps/vacationlabs/marketing/app/controllers/marketing/setup_wizard_controller.rb",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/controllers/trips/admin/trips_controller.rb",
+		"/home/ankita/rails-apps/vacationlabs/trips/lib/trips/trip_options_controller_mixin.rb",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/assets/javascripts/trips/admin/vl-trips/directives/trip_save_button.js",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/assets/javascripts/trips/admin/vl-trips/directives/trip_location_tab.js",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/assets/javascripts/trips/admin/vl-trips/controllers/edit_location_controller.js",
+		"/home/ankita/rails-apps/vacationlabs/trips/lib/trips/open_slots_mixin.rb",
+		"/home/ankita/rails-apps/vacationlabs/common/lib/create_intercom_event_after_trip_activated.rb",
+		"/home/ankita/rails-apps/vacationlabs/trips_storefront_api/app/controllers/trips_storefront_api/trips_controller.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/unit/itinerary/departure_test.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/functional/itinerary/admin/departures_controller_test.rb",
+		"/home/ankita/rails-apps/vacationlabs/itinerary/app/helpers/itinerary/admin/departure_json_helper.rb",
+		"/home/ankita/rails-apps/vacationlabs/common/app/models/common/cache_operation.rb",
+		"/home/ankita/rails-apps/vacationlabs/common/lib/common/cache_operations_controller_mixin.rb",
+		"/home/ankita/rails-apps/vacationlabs/itinerary/app/helpers/itinerary/admin/pax_manifest_json_helper.rb",
+		"/home/ankita/rails-apps/vacationlabs/itinerary/app/controllers/itinerary/admin/departures_controller.rb",
+		"/home/ankita/rails-apps/vacationlabs/itinerary/app/models/itinerary/passenger.rb",
+		"/home/ankita/rails-apps/vacationlabs/config/environments/development.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/unit/trips/trip_json_helper_test.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/unit/itinerary/booking_test.rb",
+		"/home/ankita/rails-apps/vacationlabs/common/app/models/common/admin/ability.rb",
+		"/home/ankita/rails-apps/vacationlabs/common/app/models/common/user.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/functional/common/admin/accounts_controller_test.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/test_mixins/common_mixin.rb",
+		"/home/ankita/rails-apps/vacationlabs/public/docs/admin-departures-api.yml",
+		"/home/ankita/rails-apps/vacationlabs/itinerary/app/models/itinerary/pricing_item.rb",
+		"/home/ankita/rails-apps/vacationlabs/common/app/models/common/client.rb",
+		"/home/ankita/rails-apps/vacationlabs/common/app/controllers/common/admin/accounts_controller.rb",
+		"/home/ankita/rails-apps/vacationlabs/itinerary/app/controllers/itinerary/admin/bookings_controller.rb",
+		"/home/ankita/rails-apps/vacationlabs/test/functional/itinerary/admin/bookings_controller_test.rb",
+		"/home/ankita/rails-apps/fix-functionals.out",
+		"/home/ankita/rails-apps/fix-units.outs",
+		"/home/ankita/rails-apps/vacationlabs/company_dashboard/app/helpers/company_dashboard/dashboard_helper.rb",
+		"/home/ankita/rails-apps/vacationlabs/common/app/helpers/common/admin/dashboard_helper.rb",
+		"/home/ankita/rails-apps/vacationlabs/common/app/views/common/admin/profile/index.html.erb",
+		"/home/ankita/rails-apps/vacationlabs/common/lib/common/date_operations_mixin.rb",
+		"/home/ankita/rails-apps/vacationlabs/itinerary/app/helpers/itinerary/admin/booking_json_helper.rb",
+		"/home/ankita/rails-apps/vacationlabs/db/migrate/20151007073555_create_customers_from_contacts.rb",
+		"/home/ankita/rails-apps/vacationlabs/db/migrate/20120211131514_create_customers.rb",
+		"/home/ankita/rails-apps/vacationlabs/common/lib/common/local_time_mixin.rb",
+		"/home/ankita/rails-apps/vacationlabs/db/migrate/20160111203427_update_departures_for_booking_ids_with_addon_comment.rb",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/controllers/trips/admin/trip_options_controller.rb",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/models/trips/trip_option.rb",
+		"/home/ankita/rails-apps/vacationlabs/trips/app/helpers/trips/availability_json_helper.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/ankita/rails-apps/invoice-pradosh/app",
+			"/home/ankita/rails-apps/vacationlabs,/home/ankita/rails-apps/invoice-pradosh/app",
+			"/home/ankita/rails-apps/vacationlabs",
+			"/home/ankita/rails-apps/vacationlabs,*.js",
+			"/home/ankita/rails-apps/vacationlabs/*.js",
+			"/home/ankita/rails-apps/vacationlabs/ .js",
+			"/home/ankita/rails-apps/vacationlabs",
+			"/home/ankita/rails-apps/vacationlabs/,*.js",
+			"/home/ankita/rails-apps/vacationlabs/* .js",
+			"/home/ankita/rails-apps/vacationlabs .js",
+			"/home/ankita/rails-apps/vacationlabs/ .js",
+			"/home/ankita/rails-apps/vacationlabs/ js",
+			"/home/ankita/rails-apps/vacationlabs js",
+			"/home/ankita/rails-apps/vacationlabs",
+			"/home/ankita/rails-apps/vacationlabs, *.js",
+			"/home/ankita/rails-apps/vacationlabs",
+			"/home/ankita/rails-apps/vacationlabs,*.js",
+			"/home/ankita/rails-apps/vacationlabs .js",
+			"/home/ankita/rails-apps/vacationlabs/*.js",
+			"/home/ankita/rails-apps/vacationlabs/",
+			"/home/ankita/rails-apps/vacationlabs/test",
+			"/home/ankita/.rvm/gems/ruby-2.1.5@vacationlabs/gems/intercom-3.1.0",
+			"/home/ankita/rails-apps/vacationlabs/,/home/ankita/.rvm/gems/ruby-2.1.5@vacationlabs/gems/intercom-3.1.0",
+			"/home/ankita/rails-apps/vacationlabs/",
+			"/home/ankita/rails-apps/vacationlabs/db",
+			"/home/ankita/Downloads/liquid-2.5.3,/home/ankita/.rvm/gems/ruby-2.1.5@vacationlabs/gems/liquid-3.0.6",
+			"/home/ankita/Downloads/liquid-2.5.3",
+			"/home/ankita/rails-apps/vacationlabs",
+			"/home/ankita/rails-apps/vacationlabs/db/migrate",
+			"/home/ankita/rails-apps/vacationlabs/",
+			"/home/ankita/rails-apps/vacationlabs/test/functional",
+			"/home/ankita/rails-apps/vacationlabs,/home/ankita/rails-apps/vacationlabs/test/functional",
+			"/home/ankita/rails-apps/vacationlabs",
+			"/home/ankita/rails-apps/vacationlabs/vl_mailchimp",
+			"/home/ankita/rails-apps/vacationlabs/vl_mailchimp/app",
+			"/home/ankita/rails-apps/vacationlabs/",
+			"/home/ankita/rails-apps/vacationlabs/vendor",
+			"/home/ankita/rails-apps/recipe-app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"html",
+			"invoices",
+			"ProductListController",
+			"productlistcontroler",
+			"ProductListController",
+			"productController",
+			"controller",
+			"ng-controller",
+			"Invoiceapp",
+			"invoiceApp",
+			"ui-view",
+			"/angular-ui-router.js",
+			"ui.router",
+			"angula",
+			"html",
+			"ng-app",
+			"userResolveFn",
+			"resolve",
+			".state",
+			".js",
+			".state",
+			"jquery-rail",
+			" ",
+			"json_for_a_single_trip",
+			"data",
+			"prepare_trip_option_departure_map",
+			"get_availability_for_single_trip",
+			"data",
+			"get_availability_for_single_trip",
+			"construct_keys_for_cache_fetch",
+			"trip_id",
+			"keys",
+			"set_unrolled_slot_days_and_deps",
+			"unrolled_slot_DAys",
+			"unrolled_slot_days",
+			"unrolled_slot+days",
+			"unrolled_slot",
+			"unrolled_slot_days",
+			"unrolled_",
+			"unrolled_da",
+			"availability",
+			"availability_keys",
+			"include_avail",
+			"include",
+			"set_unrolled_slot_days_and_deps",
+			"render_multi_trip_list",
+			"availability",
+			"@unrolled_slot_days",
+			"@unrolled_",
+			"bonding",
+			"guaranteed_with_retry_count",
+			"set_unrolled_slot_days_and_deps",
+			"unrolled_slot_days",
+			"2016-01-15",
+			"availability_js",
+			"availability",
+			"render_single_trip_list",
+			"binding.pry",
+			"bookings/new",
+			"bookings.new",
+			"route",
+			"bookings/new",
+			"2016-01-15",
+			"\"open_slots\"",
+			"content",
+			"departure_calendar",
+			"expected_start_dt",
+			"expected_start_",
+			"expected_start_date",
+			"construct_departure_calendar",
+			"to_time_in_current_zone",
+			"availability",
+			"self.between",
+			"def between",
+			"between",
+			"twitter",
+			"class Availability",
+			"process_departures_if_any",
+			"refres",
+			"template",
+			"legendHtml",
+			"departure-date-selector",
+			"html",
+			"ui-datepicker-calendar",
+			"book now",
+			"binding.pry",
+			"occurs_on",
+			"contextmenu",
+			"nativ",
+			"_handle_sa_ea_contained_edge_case_or_save",
+			"to_destroy",
+			"processed_ranges before",
+			"processed_ranges before ",
+			"_handle_sa_ea_contained_edge_case_or_save",
+			"_handle_processed_ranges_for_open_slots",
+			"rails",
+			"puts",
+			"puts ",
+			"processed_ranges",
+			"association_arel",
+			"processed_ranges",
+			"_process_overlapping_open_ranges",
+			"_handle_sa_ea_contained_edge_case_or_save",
+			"#<Trips::OpenSlot id: nil, client_id: 468, trip_id: 1198, trip_option_id: 1221, starts_at: \"2016-01-18 03:00:00\", ends_at: \"2016-01-24 03:00:00\", days_of_week: [true, true, true, true, true, true, true], excluded_times: [], min_pax: nil, max_pax: nil, created_at: \"2016-01-14 12:23:55\", updated_at: \"2016-01-14 12:23:55\", pricing_group_id: nil>",
+			"#<Trips::OpenSlot id: 2707, client_id: 468, trip_id: 1198, trip_option_id: 1221, starts_at: \"2016-01-16 03:00:00\", ends_at: \"2016-01-16 03:00:00\", days_of_week: [true, true, true, true, true, true, true], excluded_times: [2016-01-16 03:00:00 UTC], min_pax: nil, max_pax: nil, created_at: \"2016-01-14 12:23:55\", updated_at: \"2016-01-14 12:23:55\", pricing_group_id: nil>",
+			"_handle_sa_ea_contained_edge_case_or_save",
+			"binding.pry",
+			"_handle_sa_ea_contained_edge_case_or_save",
+			"_check_if_single_time_slot_contains_excldued_time_with_same_date",
+			"_handle_sa_ea_contained_edge_case_or_save",
+			"_check_if_single_time_slot_contains_excldued_time_with_same_date",
+			"_handle_sa_ea_contained_edge_case_or_save",
+			"occurs_on?",
+			"_handle_sa_ea_contained_edge_case_or_save",
+			"def occurs_on",
+			"_remove_excluded_date_in_association",
+			"overview",
+			"\"trips\"",
+			"getdata",
+			"independent",
+			"_check_if_single_time_slot_contains_excldued_time_with_same_date",
+			"console",
+			"nokogiri",
+			"consoe",
+			"scope",
+			"val",
+			"vale",
+			"independent"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_",
+			"",
+			"\\",
+			" ",
+			"_",
+			"",
+			"_",
+			"",
+			"_",
+			"number_of_customer_bookings",
+			"_",
+			" ",
+			"add-participant-type-wt",
+			"add_participant_type_wt",
+			"add_participant_type",
+			"add-participant-type",
+			"rates_walkthrough_completed",
+			"user_walkthrough_completed",
+			"_",
+			"fetch_message",
+			"fetch_sms_message",
+			"get_messsage",
+			"_",
+			"    CUSTOM_FAIL",
+			"enabled_sms",
+			"\\n",
+			"script/delayed_job"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								780
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10159,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										0,
+										0
+									],
+									[
+										153,
+										166
+									],
+									[
+										199,
+										212
+									],
+									[
+										343,
+										356
+									],
+									[
+										384,
+										397
+									],
+									[
+										513,
+										526
+									],
+									[
+										557,
+										570
+									],
+									[
+										664,
+										677
+									],
+									[
+										709,
+										722
+									],
+									[
+										795,
+										808
+									],
+									[
+										840,
+										853
+									],
+									[
+										877,
+										890
+									],
+									[
+										930,
+										943
+									],
+									[
+										997,
+										1010
+									],
+									[
+										1040,
+										1053
+									],
+									[
+										1080,
+										1093
+									],
+									[
+										1143,
+										1156
+									],
+									[
+										1185,
+										1198
+									],
+									[
+										1227,
+										1240
+									],
+									[
+										1269,
+										1282
+									],
+									[
+										1311,
+										1324
+									],
+									[
+										1368,
+										1381
+									],
+									[
+										1443,
+										1456
+									],
+									[
+										1502,
+										1515
+									],
+									[
+										1561,
+										1574
+									],
+									[
+										1622,
+										1635
+									],
+									[
+										1681,
+										1694
+									],
+									[
+										1740,
+										1753
+									],
+									[
+										1782,
+										1795
+									],
+									[
+										1841,
+										1854
+									],
+									[
+										1883,
+										1896
+									],
+									[
+										1946,
+										1959
+									],
+									[
+										1990,
+										2003
+									],
+									[
+										2032,
+										2045
+									],
+									[
+										2074,
+										2087
+									],
+									[
+										2116,
+										2129
+									],
+									[
+										2172,
+										2185
+									],
+									[
+										2296,
+										2309
+									],
+									[
+										2380,
+										2393
+									],
+									[
+										2458,
+										2471
+									],
+									[
+										2498,
+										2511
+									],
+									[
+										2536,
+										2549
+									],
+									[
+										2579,
+										2592
+									],
+									[
+										2620,
+										2633
+									],
+									[
+										2662,
+										2675
+									],
+									[
+										2705,
+										2718
+									],
+									[
+										2827,
+										2840
+									],
+									[
+										2870,
+										2883
+									],
+									[
+										2976,
+										2989
+									],
+									[
+										3020,
+										3033
+									],
+									[
+										3105,
+										3118
+									],
+									[
+										3149,
+										3162
+									],
+									[
+										3185,
+										3198
+									],
+									[
+										3237,
+										3250
+									],
+									[
+										3303,
+										3316
+									],
+									[
+										3345,
+										3358
+									],
+									[
+										3385,
+										3398
+									],
+									[
+										3448,
+										3461
+									],
+									[
+										3490,
+										3503
+									],
+									[
+										3532,
+										3545
+									],
+									[
+										3574,
+										3587
+									],
+									[
+										3616,
+										3629
+									],
+									[
+										3673,
+										3686
+									],
+									[
+										3748,
+										3761
+									],
+									[
+										3807,
+										3820
+									],
+									[
+										3866,
+										3879
+									],
+									[
+										3927,
+										3940
+									],
+									[
+										3986,
+										3999
+									],
+									[
+										4045,
+										4058
+									],
+									[
+										4087,
+										4100
+									],
+									[
+										4146,
+										4159
+									],
+									[
+										4188,
+										4201
+									],
+									[
+										4251,
+										4264
+									],
+									[
+										4295,
+										4308
+									],
+									[
+										4337,
+										4350
+									],
+									[
+										4379,
+										4392
+									],
+									[
+										4421,
+										4434
+									],
+									[
+										4477,
+										4490
+									],
+									[
+										4601,
+										4614
+									],
+									[
+										4685,
+										4698
+									],
+									[
+										4763,
+										4776
+									],
+									[
+										4803,
+										4816
+									],
+									[
+										4841,
+										4854
+									],
+									[
+										4884,
+										4897
+									],
+									[
+										4925,
+										4938
+									],
+									[
+										4967,
+										4980
+									],
+									[
+										5010,
+										5023
+									],
+									[
+										5227,
+										5244
+									],
+									[
+										5385,
+										5402
+									],
+									[
+										5473,
+										5490
+									],
+									[
+										5556,
+										5573
+									],
+									[
+										5592,
+										5609
+									],
+									[
+										5629,
+										5646
+									],
+									[
+										5681,
+										5698
+									],
+									[
+										5840,
+										5857
+									],
+									[
+										6085,
+										6102
+									],
+									[
+										6122,
+										6139
+									],
+									[
+										6155,
+										6172
+									],
+									[
+										6268,
+										6285
+									],
+									[
+										6440,
+										6457
+									],
+									[
+										6542,
+										6559
+									],
+									[
+										6851,
+										6872
+									],
+									[
+										7073,
+										7081
+									],
+									[
+										7106,
+										7114
+									],
+									[
+										7142,
+										7150
+									],
+									[
+										7182,
+										7190
+									],
+									[
+										7219,
+										7227
+									],
+									[
+										7259,
+										7267
+									],
+									[
+										7303,
+										7311
+									],
+									[
+										7444,
+										7452
+									],
+									[
+										7474,
+										7482
+									],
+									[
+										7514,
+										7522
+									],
+									[
+										7551,
+										7559
+									],
+									[
+										7588,
+										7596
+									],
+									[
+										7643,
+										7651
+									],
+									[
+										7780,
+										7788
+									],
+									[
+										7836,
+										7844
+									],
+									[
+										7915,
+										7923
+									],
+									[
+										7952,
+										7960
+									],
+									[
+										8078,
+										8086
+									],
+									[
+										8220,
+										8228
+									],
+									[
+										8231,
+										8239
+									],
+									[
+										8273,
+										8281
+									],
+									[
+										8378,
+										8386
+									],
+									[
+										8505,
+										8513
+									],
+									[
+										8556,
+										8564
+									],
+									[
+										8687,
+										8695
+									],
+									[
+										8837,
+										8845
+									],
+									[
+										8909,
+										8917
+									],
+									[
+										9015,
+										9023
+									],
+									[
+										9070,
+										9078
+									],
+									[
+										9100,
+										9108
+									],
+									[
+										9166,
+										9174
+									],
+									[
+										9188,
+										9196
+									],
+									[
+										9254,
+										9262
+									],
+									[
+										9273,
+										9281
+									],
+									[
+										9309,
+										9317
+									],
+									[
+										9352,
+										9360
+									],
+									[
+										9493,
+										9501
+									],
+									[
+										9560,
+										9568
+									],
+									[
+										9580,
+										9588
+									],
+									[
+										9687,
+										9695
+									],
+									[
+										9707,
+										9715
+									],
+									[
+										9734,
+										9742
+									],
+									[
+										9767,
+										9775
+									],
+									[
+										9805,
+										9813
+									],
+									[
+										9841,
+										9849
+									],
+									[
+										10030,
+										10038
+									],
+									[
+										10040,
+										10048
+									],
+									[
+										10089,
+										10097
+									],
+									[
+										10113,
+										10121
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								9965,
+								9965
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 6,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3373.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/directives/flash-message.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								872,
+								872
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/directives/line-item.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/directives/vl-appear.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/directives/vl-click.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1670,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								894,
+								894
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/directives/vl-date-picker.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1128,
+								1128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/directives/vl-field-errors.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/directives/vl-paginate.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1732,
+								1732
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								812,
+								812
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/home/ankita/rails-apps/invoice-pradosh/app/views/layouts/application.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								685,
+								685
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ERB Autocomplete/erb.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/product_controllers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/home/ankita/Desktop/vacationlabs-pradosh-angular-invoice-app-9bded6e799b6/app/assets/javascripts/services/invoice_factory.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1129,
+								1129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/home/ankita/rails-apps/poop-my-scoop/poop_my_scoop/app/assets/javascripts/services/image_factory.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/home/ankita/rails-apps/invoice-pradosh/Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/home/ankita/rails-apps/invoice-pradosh/config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/home/ankita/rails-apps/invoice-pradosh/app/assets/javascripts/application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1465,
+								1475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 466.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 112.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "prados-angular-app.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app.js",
+				"app/assets/javascripts/app.js"
+			],
+			[
+				"productcontroller",
+				"app/assets/javascripts/product_controllers.js"
+			],
+			[
+				"prodcutcontroler",
+				"app/controllers/products_controller.rb"
+			],
+			[
+				"apllicatio.h",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"prodcutcontro",
+				"app/assets/javascripts/product_controllers.js"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"gefil",
+				"Gemfile"
+			],
+			[
+				"productconr",
+				"app/assets/javascripts/product_controllers.js"
+			],
+			[
+				"application.js",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"application.htm",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"application.html",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"producito",
+				"config/environments/production.rb"
+			],
+			[
+				"develope",
+				"config/environments/development.rb"
+			],
+			[
+				"applicationc",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"availability",
+				"trips/app/models/trips/availability.rb"
+			],
+			[
+				"tripoptiond",
+				"trips/lib/trips/trip_option_date_range_operations.rb"
+			],
+			[
+				"openslottest",
+				"test/unit/trips/open_slots_test.rb"
+			],
+			[
+				"availa",
+				"trips/app/models/trips/availability.rb"
+			],
+			[
+				"openslotest",
+				"test/unit/trips/open_slots_test.rb"
+			],
+			[
+				"tripoptiondaterange",
+				"trips/lib/trips/trip_option_date_range_operations.rb"
+			],
+			[
+				"timefromrange",
+				"common/lib/common/times_from_ranges_mixin.rb"
+			],
+			[
+				"availabilti",
+				"trips/app/models/trips/availability.rb"
+			],
+			[
+				"openslot.rb",
+				"trips/app/models/trips/open_slot.rb"
+			],
+			[
+				"availai",
+				"trips/app/models/trips/availability.rb"
+			],
+			[
+				"widgetcontrollr",
+				"trips/app/controllers/trips/store_front/widgets_controller.rb"
+			],
+			[
+				"widgethelper",
+				"trips/app/helpers/trips/store_front/single_calendar_widget_helper.rb"
+			],
+			[
+				"availability.rb",
+				"trips/app/models/trips/availability.rb"
+			],
+			[
+				"widgetcontroller",
+				"trips/app/controllers/trips/store_front/widgets_controller.rb"
+			],
+			[
+				"widgetcotro",
+				"app/controllers/widgets_controller.rb"
+			],
+			[
+				"departuremixin",
+				"itinerary/lib/itinerary/departure_date_calendar_mixin.rb"
+			],
+			[
+				"openslot",
+				"trips/app/models/trips/open_slot.rb"
+			],
+			[
+				"availiab",
+				"trips/app/models/trips/availability.rb"
+			],
+			[
+				"trip.rb",
+				"trips/app/models/trips/trip.rb"
+			],
+			[
+				"departurecalend",
+				"itinerary/lib/itinerary/departure_date_calendar_mixin.rb"
+			],
+			[
+				"trip",
+				"trips/app/models/trips/trip.rb"
+			],
+			[
+				"timefrm",
+				"common/lib/common/times_from_ranges_mixin.rb"
+			],
+			[
+				"bookingscontroller",
+				"itinerary/app/controllers/itinerary/store_front/bookings_controller.rb"
+			],
+			[
+				"loca",
+				"common/lib/common/local_time.rb"
+			],
+			[
+				"localtime",
+				"common/lib/common/local_time_mixin.rb"
+			],
+			[
+				"localtim",
+				"common/lib/common/local_time.rb"
+			],
+			[
+				"commonlocalti",
+				"common/lib/common/local_time.rb"
+			],
+			[
+				"availabilityjsonhel",
+				"trips/app/helpers/trips/availability_json_helper.rb"
+			],
+			[
+				"storewidgetscontroller",
+				"trips/app/controllers/trips/store_front/widgets_controller.rb"
+			],
+			[
+				"widgetscon",
+				"trips/app/controllers/trips/admin/widgets_controller.rb"
+			],
+			[
+				"widgetshelper",
+				"app/helpers/widgets_helper.rb"
+			],
+			[
+				"widgetscontroller",
+				"app/controllers/widgets_controller.rb"
+			],
+			[
+				"departurecland",
+				"itinerary/lib/itinerary/departure_date_calendar_mixin.rb"
+			],
+			[
+				"bookigscontroller",
+				"itinerary/app/controllers/itinerary/store_front/bookings_controller.rb"
+			],
+			[
+				"avail",
+				"trips/app/models/trips/availability.rb"
+			],
+			[
+				"availia",
+				"trips/app/models/trips/availability.rb"
+			],
+			[
+				"schema.rb",
+				"db/schema.rb"
+			],
+			[
+				"departurecalendarmixin",
+				"itinerary/lib/itinerary/departure_date_calendar_mixin.rb"
+			],
+			[
+				"departurejsonhel",
+				"itinerary/app/helpers/itinerary/admin/departure_json_helper.rb"
+			],
+			[
+				"tripdetial",
+				"test/special_fixtures/127.0.0.1.xip.io/trip_details.shtml"
+			],
+			[
+				"frommixin",
+				"common/lib/common/times_from_ranges_mixin.rb"
+			],
+			[
+				"",
+				"trips/lib/trips/trip_option_date_range_operations.rb"
+			],
+			[
+				"departuredat",
+				"itinerary/lib/itinerary/departure_date_calendar_mixin.rb"
+			],
+			[
+				"locatime",
+				"common/lib/common/local_time_mixin.rb"
+			],
+			[
+				"bookingscotroller",
+				"itinerary/app/controllers/itinerary/store_front/bookings_controller.rb"
+			],
+			[
+				"timefromrang",
+				"common/lib/common/times_from_ranges_mixin.rb"
+			],
+			[
+				"departurecal",
+				"itinerary/lib/itinerary/departure_date_calendar_mixin.rb"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"timefrommi",
+				"common/lib/common/times_from_ranges_mixin.rb"
+			],
+			[
+				"aviali",
+				"trips/app/models/trips/availability.rb"
+			],
+			[
+				"vendor/gems/twi",
+				"vendor/gems/twitter_bootstrap_form_for/.git"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"availi",
+				"trips/app/models/trips/availability.rb"
+			],
+			[
+				"departuredatecalendarm",
+				"itinerary/lib/itinerary/departure_date_calendar_mixin.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"multistepbookinform",
+				"itinerary/app/views/itinerary/store_front/bookings/multi_step_booking_form.html.erb"
+			],
+			[
+				"singlestepbooking",
+				"itinerary/app/views/itinerary/store_front/bookings/single_step_booking_form.html.erb"
+			],
+			[
+				"storefronbookingscon",
+				"itinerary/app/controllers/itinerary/store_front/bookings_controller.rb"
+			],
+			[
+				"itinerarydeparturedatepick",
+				"itinerary/app/assets/javascripts/itinerary/common/directives/departure_date_picker.js"
+			],
+			[
+				"intelligencalen",
+				"trips/app/assets/javascripts/trips/store_front/_intelligent_calendar_jquery_widget.js"
+			],
+			[
+				"intelligentca",
+				"trips/app/assets/javascripts/trips/store_front/_intelligent_calendar_jquery_widget.js"
+			],
+			[
+				"confirma",
+				"hotels/app/views/hotels/hotel_booking_mailer/confirmation_email.html.liquid"
+			],
+			[
+				"timerange",
+				"common/lib/common/times_from_ranges_mixin.rb"
+			],
+			[
+				"tripopt",
+				"trips/app/models/trips/trip_option.rb"
+			],
+			[
+				"singlestepbookin",
+				"itinerary/app/views/itinerary/store_front/bookings/single_step_booking_form.html.erb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"bookingscon",
+				"itinerary/app/controllers/itinerary/store_front/bookings_controller.rb"
+			],
+			[
+				"config.js",
+				"ckeditor/app/assets/ckeditor/ckeditor/config.js"
+			],
+			[
+				"openslott",
+				"test/unit/trips/open_slots_test.rb"
+			],
+			[
+				"configjs",
+				"ckeditor/app/assets/ckeditor/ckeditor/config.js"
+			],
+			[
+				"config.j",
+				"ckeditor/app/assets/ckeditor/ckeditor/config.js"
+			],
+			[
+				"openslotte",
+				"test/unit/trips/open_slots_test.rb"
+			],
+			[
+				"openslottes",
+				"test/unit/trips/open_slots_test.rb"
+			],
+			[
+				"tripoptiondatee",
+				"trips/lib/trips/trip_option_date_range_operations.rb"
+			],
+			[
+				"tripdetails",
+				"trips/app/views/trips/store_front/trips/trip_details.html.erb"
+			],
+			[
+				"vlrichte",
+				"common/app/assets/javascripts/common/admin/vl/common/directives/vl_rich_text_editor.js"
+			],
+			[
+				"config",
+				"lib/backup/config.rb"
+			],
+			[
+				"vlrichtext",
+				"common/app/assets/javascripts/common/admin/vl/common/directives/vl_rich_text_editor.js"
+			],
+			[
+				"richtexteditor",
+				"common/app/assets/javascripts/common/admin/vl/common/directives/vl_rich_text_editor.js"
+			],
+			[
+				"tripetai",
+				"trips/app/views/trips/store_front/trips/_trip_details_content.html.erb"
+			],
+			[
+				"vltext",
+				"common/app/assets/javascripts/common/admin/vl/common/directives/vl_rich_text_editor.js"
+			],
+			[
+				"vltextedito",
+				"common/app/assets/javascripts/common/admin/vl/common/directives/large_text_editor.js"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"tripoptionope",
+				"trips/lib/trips/trip_option_date_range_operations.rb"
+			],
+			[
+				"richtex",
+				"common/app/assets/javascripts/common/admin/vl/common/directives/vl_rich_text_editor.js"
+			],
+			[
+				"gemlo",
+				"Gemfile.lock"
+			],
+			[
+				"tripscontroller.rb",
+				"trips/app/controllers/trips/store_front/trips_controller.rb"
+			],
+			[
+				"applicationhelper",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"vlrixhtes",
+				"common/app/assets/javascripts/common/admin/vl/common/directives/vl_rich_text_editor.js"
+			],
+			[
+				"detaileditinerar",
+				"trips/app/views/trips/admin/trips/_detailed_itinerary_editor.html.erb"
+			],
+			[
+				"detaileditinrae",
+				"trips/app/assets/javascripts/trips/admin/vl-trips/directives/detailed_itinerary_editor.js"
+			],
+			[
+				"basidetail",
+				"trips/app/assets/javascripts/trips/admin/vl-trips/vl-custom-trips/directives/custom_trip_basic_details_tab.js"
+			],
+			[
+				"tripdetail",
+				"trips/app/views/trips/store_front/trips/_trip_details_content.html.erb"
+			],
+			[
+				"ge",
+				"Gemfile.lock"
+			],
+			[
+				"tripoptiondar",
+				"trips/lib/trips/trip_option_date_range_operations.rb"
+			],
+			[
+				"opens",
+				"trips/app/models/trips/open_slot.rb"
+			],
+			[
+				"tripadditionalvalue",
+				"trips/app/views/trips/store_front/trips/_trips_additional_values.html.erb"
+			],
+			[
+				"tripdetailscontetn",
+				"trips/app/views/trips/store_front/trips/_trip_details_content.html.erb"
+			],
+			[
+				"tripoptiondate",
+				"trips/lib/trips/trip_option_date_range_operations.rb"
+			],
+			[
+				"departure",
+				"itinerary/app/models/itinerary/departure.rb"
+			],
+			[
+				"booking.rb",
+				"itinerary/app/models/itinerary/booking.rb"
+			],
+			[
+				"itineraryboo",
+				"app/admin/itinerary_bookings.rb"
+			],
+			[
+				"theory.rb",
+				"config/deploy/theory.rb"
+			],
+			[
+				"poenslotte",
+				"test/unit/trips/open_slots_test.rb"
+			],
+			[
+				"daterangeop",
+				"trips/lib/trips/trip_option_date_range_operations.rb"
+			],
+			[
+				"tripscontrollertes",
+				"test/functional/trips_storefront_api/trips_controller_test.rb"
+			],
+			[
+				"triptest",
+				"test/functional/trips/store_front/trips_controller_test.rb"
+			],
+			[
+				"tripscontrollertest",
+				"test/functional/trips_storefront_api/trips_controller_test.rb"
+			],
+			[
+				"openslots",
+				"test/unit/trips/open_slots_test.rb"
+			],
+			[
+				"createintercomevn",
+				"common/lib/create_intercom_event_after_trip_activated.rb"
+			],
+			[
+				"openslotes",
+				"test/unit/trips/open_slots_test.rb"
+			],
+			[
+				"admintripscon",
+				"trips/app/controllers/trips/admin/trips_controller.rb"
+			],
+			[
+				"setupwiza",
+				"marketing/app/controllers/marketing/setup_wizard_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/rails-apps/vacationlabs/common/lib/common/poop_my_scoop.sublime-project"
+			],
+			[
+				"poop",
+				"~/rails-apps/vacationlabs/common/lib/common/poop_my_scoop.sublime-project"
+			],
+			[
+				"poo",
+				"~/rails-apps/vacationlabs/common/lib/common/poop_my_scoop.sublime-project"
+			],
+			[
+				"poop my",
+				"~/rails-apps/vacationlabs/common/lib/common/poop_my_scoop.sublime-project"
+			],
+			[
+				"reciep",
+				"~/Desktop/recipe-app.sublime-project"
+			],
+			[
+				"recipe",
+				"~/Desktop/recipe-app.sublime-project"
+			],
+			[
+				"rec",
+				"~/Desktop/recipe-app.sublime-project"
+			],
+			[
+				"re",
+				"~/Desktop/recipe-app.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

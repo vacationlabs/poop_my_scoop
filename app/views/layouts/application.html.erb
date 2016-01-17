@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="poopMyScoop">
 <head>
   <title>PoopMyScoop</title>
   <%= stylesheet_link_tag    "application", :media => "all" %>
@@ -9,23 +9,20 @@
 <body>
 <nav class="navbar-def custom_nav navbar-fixed-top">
   <div class="container-fluid">
-   
     <div class="navbar-header" align="center" >
-     <img class="icon" alt="Brand" src="/assets/logo.png">
-     <h4 class="heading" >POOP  MY  SCOOP</h4>
-      
-
+      <img class="icon" alt="Brand" src="/assets/logo.png">
+      <h4 class="heading" >POOP  MY  SCOOP</h4>
     </div>
-    
-     
-    
   </div>
 </nav>
-
+  <div ng-controller="editorMarkdownController">
+    <div ui-view>
+      <div id="height-min">
+        <%= yield %>
+      </div>
+    </div> 
+  </div>
 <!-- the main body -->
-<div id="height-min">
-  <%= yield %>
-</div>
 
 <!-- start of footer-->
 <footer class="footer-basic-centered">
@@ -43,10 +40,9 @@
 		·
 		<a href="#">Contact</a>
 	</p>
-
 	<p class="footer-company-name">Hackathon &copy; 2016</p>
-
 </footer>
+ 
 
 
 </body>
