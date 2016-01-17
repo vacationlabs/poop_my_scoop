@@ -63,9 +63,14 @@
 
 .main-heading {
 	font-family: Montez;
-  font-size: 43px;
+  font-size: 49px;
   text-shadow: 2px 3px #BFB7B7;
   text-align: center;
   margin-bottom: 15px;
 
+}
+
+.modal_body_style{
+  height: 450px;
+  overflow: auto;
 }
