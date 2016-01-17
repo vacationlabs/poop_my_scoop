@@ -1,12 +1,19 @@
 
 <div class="main-container" class="">
+  <div class="row">
+    <span class="main-heading col-xs-12">Create Your Scoop</span>
+  </div>
   <div class="container-fluid space">
     <div class="row">
     <!-- left side content -->
       <div class="col-xs-6  content-left ">
-      <input type="text" ng-model="blog_title">
+       
+        <div >
+        <input class="title-style col-xs-12"  placeholder="Add Title" type="text" ng-model="blog_title">
+        </div>
+                
         <div poop-editor model="edit_content"></div>
-        <div class="col-md-4  "> 
+        <div class="col-md-4  add-image-margin "> 
           <!-- Button trigger modal -->
           <button type="button"  class="btn btn-primary btn-xs" data-toggle="modal" data-target="#myModal" ng-click="fetch_images_data()">
             Add Image
@@ -74,20 +81,22 @@
           </div>
         </div>
       </div>
-      <div id="preview-content" class="col-xs-6  content-right">{{preview_content}}</div>
+      <div  class="col-xs-6  content-right">
+      <div id="preview-content">{{preview_content}}</div>
+      </div>
     </div>
-    <div class="action row">
-      <div class="col-xs-4  "></div>
-      <div class="col-xs-4  " align="center">
-        <button type="button" class="btn btn-primary btn-xs">
+    <div class="row action">
+      <div class="col-xs-4 "></div>
+      <div class="col-xs-4 " align="center">
+        <button type="button" class="btn btn-primary btn-sm">
           Post
         </button>
 
-        <button type="button" class="btn btn-primary btn-xs" >
+        <button type="button" class="btn btn-primary btn-sm" >
           Download
         </button>
       </div>
-      <div class="col-xs-4  "></div>
+      <div class="col-xs-4 "></div>
     </div>
   </div>
 </div>
