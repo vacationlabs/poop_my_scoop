@@ -1,16 +1,17 @@
 .main-container{
-  margin-top:94px;
+  margin-top: 72px;
+
+  height: 100%;
 }
 
 
 .content-left{
-  height: 250px;
-  background-color: #DCD6D6;
+  height: 389px;
+
 }
 
 .content-right{
-  height: 250px;	
-  background-color: #DCD6D6;
+  height: 389px;	
 }
 
 .action {
@@ -32,14 +33,39 @@
   border: 1px solid red
 }
 
+ 
+.title-style{
+	float:left;
+	font-size: 28px;
+}
 
-.modal-content{
-  height: 300px;
-  overflow: scroll;
+.float-margin{
+	float:left;
+    margin-top: 4px;
+ }
+
+#preview-content{
+	border:1px dotted blue;
+	height: 389px;
+	overflow-y: scroll;
+	padding-left: 12px;
 
 }
 
+.add-image-margin{
+	margin-top: 12px;
+}
 
-.spacing-bottom{
-  padding-bottom: 20px;
+.action{
+  margin-top: 40px;
+  margin-bottom: 12px;
+}
+
+.main-heading {
+	font-family: Montez;
+  font-size: 43px;
+  text-shadow: 2px 3px #BFB7B7;
+  text-align: center;
+  margin-bottom: 15px;
+
 }
