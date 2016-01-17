@@ -1,7 +1,6 @@
 var editorControllers = angular.module('editorControllers', []);
 editorControllers.controller('editorMarkdownController', ['$scope', 'PoopMyScoop', function($scope, PoopMyScoop){
-    $scope.edit_content = "Welcome to Poof my Scoop!"+"\n"+"==================="+"\n"
-                 +"Brief overview paragraph 1....This is a Markdown editor. It stores your documents in your browser, which means all your documents are automatically saved locally and are accessible **offline!**"
+    $scope.edit_content = "Brief overview paragraph 1....This is a Markdown editor. It stores your documents in your browser, which means all your documents are automatically saved locally and are accessible **offline!**"
                  +"\n\n"+"- Add bullets or numbers"
                  +"\n"+"- Add bullets or numbers"
                  +"\n"+"- Add bullets or numbers"
@@ -14,9 +13,9 @@ editorControllers.controller('editorMarkdownController', ['$scope', 'PoopMyScoop
                +"\n"+"> looking like it's been marked up with tags"
                +"\n"+"> or formatting instructions."
                +"\n"+"This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right."
-    
+    $scope.blogtitle = "Poop My Scope"
     $scope.fetch_images_data = function(slice_range){
-      var prom = PoopMyScoop.fetch_images($scope.blog_title);
+      var prom = PoopMyScoop.fetch_images($scope.blogtitle);
       prom.success(function(data) {
         
         $scope.images_data = data

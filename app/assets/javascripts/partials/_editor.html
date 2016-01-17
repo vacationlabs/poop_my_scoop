@@ -8,11 +8,11 @@
     <!-- left side content -->
       <div class="col-xs-6  content-left ">
        
-        <div >
-        <input class="title-style col-xs-12"  placeholder="Add Title" type="text" ng-model="blog_title">
-        </div>
+        <!-- <div >
+        <input class="title-style col-xs-12" value="This is blog title"  placeholder="Add Title" type="text" ng-model="blog_title">
+        </div> -->
                 
-        <div poop-editor model="edit_content"></div>
+        <div poop-editor model="edit_content" blogtitle="blogtitle"></div>
         <div class="col-md-4  add-image-margin "> 
           <!-- Button trigger modal -->
           <button type="button"  class="btn btn-primary btn-xs" data-toggle="modal" data-target="#myModal" ng-click="fetch_images_data(4)">
@@ -96,9 +96,9 @@
           Post
         </button>
 
-        <button type="button" class="btn btn-primary btn-sm" >
+        <a download="listicals.html" id="download-as-html" class="btn btn-primary" href="" type="button" class="btn btn-primary btn-sm" >
           Download
-        </button>
+        </a>
       </div>
       <div class="col-xs-4 "></div>
     </div>
