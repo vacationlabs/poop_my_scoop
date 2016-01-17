@@ -1,11 +1,11 @@
 .navbar-def {
-    background-color: #e7e7e7;
+    background-color: #2C3E50;
     border-color: #e7e7e7;
 }
 
 .custom_nav {
 	position: relative;
-	min-height: 50px;
+	min-height: 70px;
 	margin-bottom: 20px;
 	border: 1px solid transparent;
 	-webkit-box-shadow: 0 6px 4px -4px black;
@@ -21,7 +21,13 @@
 }
 
 .icon {
-	height:40px;
-	width:40px; 
+	height: 68px;
+    width: 60px;
+	float:left
+}
+
+.icon_heading {
+	height: 68px;
+    width: 210px;
 	float:left
 }

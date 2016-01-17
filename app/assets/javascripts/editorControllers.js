@@ -47,4 +47,4 @@ editorControllers.controller('editorMarkdownController', ['$scope', 'PoopMyScoop
     }
 
     
-  }])
+  }]) 

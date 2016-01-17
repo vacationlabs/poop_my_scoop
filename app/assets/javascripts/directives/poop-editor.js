@@ -8,7 +8,7 @@ angular.module('poopMyScoop').directive('poopEditor', ['$timeout', function($tim
 
   return {
     'restrict' : 'A',
-    'template' : '<textarea style="height: 345px;" class="col-xs-12" name="" id=""  rows="10" ng-model="model"></textarea>',
+    'template' : '<textarea style="height: 345px; resize: none;" class="col-xs-12" name="" id=""  rows="10" ng-model="model"></textarea>',
     // 'replace' : true,
     'scope' : {
       'model' : '='
